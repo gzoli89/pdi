@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="TaskItt" language="en" table="u_taskitt">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>TaskItt</label>
+            <language>en</language>
+            <name>u_taskitt</name>
+            <plural>TaskItts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-16 14:44:33</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TaskItt</sys_name>
+            <sys_package display_value="test" source="9b9a5c3347601210f0d9b71f316d4309">9b9a5c3347601210f0d9b71f316d4309</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test">9b9a5c3347601210f0d9b71f316d4309</sys_scope>
+            <sys_update_name>sys_documentation_u_taskitt__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-16 14:44:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

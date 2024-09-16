@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New TaskItt</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>TaskItt</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">17e6835bd12302104f34ba60d8b7c1f4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 14:44:33</sys_created_on>
+        <sys_id>17cad07347601210f0d9b71f316d43a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TaskItt</sys_name>
+        <sys_package display_value="test" source="9b9a5c3347601210f0d9b71f316d4309">9b9a5c3347601210f0d9b71f316d4309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">9b9a5c3347601210f0d9b71f316d4309</sys_scope>
+        <sys_update_name>sys_wizard_answer_17cad07347601210f0d9b71f316d43a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 14:44:33</sys_updated_on>
+        <table/>
+        <target_url>u_taskitt.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
