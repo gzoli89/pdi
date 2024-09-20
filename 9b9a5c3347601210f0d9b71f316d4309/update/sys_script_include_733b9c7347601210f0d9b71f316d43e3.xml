@@ -17,7 +17,7 @@ Hurra.prototype = {
 
 	valami: function (hufds) {},
 
-	test: function(TV){},
+	test: function(TVneionsaoi){},
 
     type: 'Hurra'
 };]]></script>
@@ -25,14 +25,14 @@ Hurra.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-16 14:46:45</sys_created_on>
         <sys_id>733b9c7347601210f0d9b71f316d43e3</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Hurra</sys_name>
         <sys_package display_value="test" source="9b9a5c3347601210f0d9b71f316d4309">9b9a5c3347601210f0d9b71f316d4309</sys_package>
         <sys_policy/>
         <sys_scope display_value="test">9b9a5c3347601210f0d9b71f316d4309</sys_scope>
         <sys_update_name>sys_script_include_733b9c7347601210f0d9b71f316d43e3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-16 14:56:47</sys_updated_on>
+        <sys_updated_on>2024-09-20 12:11:39</sys_updated_on>
     </sys_script_include>
     <sys_es_latest_script action="INSERT_OR_UPDATE">
         <id>733b9c7347601210f0d9b71f316d43e3</id>
